@@ -7,3 +7,5 @@ requests
 gunicorn
 whitenoise
 django-herokuify
+dj-database-url
+django-heroku-postgresify
