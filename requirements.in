@@ -1,5 +1,5 @@
 croniter
-Django
+Django<2.0
 django_compressor
 psycopg2
 pytz
